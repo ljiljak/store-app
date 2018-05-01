@@ -1,6 +1,6 @@
 template>
   <div>
-      Products
+      Customers
   </div>
 
 </template>
